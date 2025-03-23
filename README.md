@@ -56,7 +56,7 @@ In order to set up and run the application, you need the following:
 In a terminal, clone the sample code to your project's working directory with the following command:
 
 ```shell
-git clone https://github.com/thefalc/multi-agent-ai-sdr-flink-orchestrator.git
+git clone https://github.com/starme208/Multi-AI-Agent-Flink-Orchestrator.git
 ```
 
 ### Setting up MongoDB
